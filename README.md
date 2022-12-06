@@ -26,3 +26,5 @@ Dan ini hasilnya :
 <p>Buatlah file baru dengan nama file_input.php</p>
 <p>Dan masukan lah syntax berikut :</p>
 <p>Dan hasilnya seperti berikut :</p>
+
+![gambar4](screenshoot/ss4.png)
